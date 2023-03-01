@@ -9,7 +9,7 @@ I'm an information technology professional and an award-winning organizational l
 * 🌍  I'm based in Warsaw/Poland
 * 🖥️  See my portfolio at [oguzhanozgul.dev](http://oguzhanozgul.dev)
 * ✉️  You can contact me at [oguzhanozgul@gmail.com](mailto:oguzhanozgul@gmail.com)
-* 🧠  I'm learning ASP.NET Core focusing on Web APIs
+<!-- * 🧠  I'm learning ASP.NET Core focusing on Web APIs -->
 * 🤝  I'm open to collaborating on consulting and open source projects.
 
 ### Skills
